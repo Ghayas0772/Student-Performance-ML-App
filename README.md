@@ -5,10 +5,13 @@ Predict student race/ethnicity based on their academic scores using Machine Lear
 ## Project Overview
 
 This project trains a Random Forest classifier to predict a student’s race/ethnicity based on three scores:
-
-- Math Score
-- Reading Score
-- Writing Score
+</> Markdown 
+Features used for prediction:
+- math score
+- reading score
+- writing score
+Target:
+- race/ethnicity (group A–E)
 
 The model is trained on the StudentsPerformance.csv dataset and includes preprocessing, scaling, and label encoding.
 
