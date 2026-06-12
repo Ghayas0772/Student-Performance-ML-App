@@ -155,7 +155,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run the Application
+##  Run the Application
 
 Start the Flask application:
 
@@ -171,7 +171,7 @@ http://127.0.0.1:5000/
 
 ---
 
-## 🌐 Web Application
+##  Web Application
 
 The Flask application provides:
 
@@ -190,7 +190,7 @@ Components:
 
 ---
 
-## 💻 Using the Model in Python
+##  Using the Model in Python
 
 ```python
 import pickle
@@ -225,7 +225,7 @@ print(result)
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 ### Test Accuracy
 
@@ -241,7 +241,7 @@ Academic performance alone is not a strong indicator of demographic characterist
 
 ---
 
-## 📋 Classification Report
+##  Classification Report
 
 | Class   | Precision | Recall | F1-Score | Support |
 | ------- | --------- | ------ | -------- | ------- |
@@ -253,7 +253,7 @@ Academic performance alone is not a strong indicator of demographic characterist
 
 ---
 
-## 📊 Confusion Matrix
+##  Confusion Matrix
 
 ```text
 [[ 1  3  7  5  2]
@@ -265,7 +265,7 @@ Academic performance alone is not a strong indicator of demographic characterist
 
 ---
 
-## 🔍 Exploratory Data Analysis
+##  Exploratory Data Analysis
 
 The notebook `StudentPerformance_EDA.ipynb` contains:
 
@@ -279,7 +279,7 @@ The notebook `StudentPerformance_EDA.ipynb` contains:
 
 ---
 
-## 📝 Notes
+##  Notes
 
 * `.pkl` files are binary serialized machine learning artifacts.
 * Download model files directly from GitHub before loading.
@@ -289,7 +289,7 @@ The notebook `StudentPerformance_EDA.ipynb` contains:
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
@@ -303,7 +303,7 @@ The notebook `StudentPerformance_EDA.ipynb` contains:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Hyperparameter tuning
 * Cross-validation
@@ -315,7 +315,7 @@ The notebook `StudentPerformance_EDA.ipynb` contains:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Ghayasudin Ghayas**
 
@@ -327,7 +327,7 @@ Azure AI & Generative AI Practitioner
 
 ---
 
-## 📄 License
+##  License
 
 This project is intended for educational, research, and learning purposes.
 
